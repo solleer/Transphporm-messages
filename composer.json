@@ -1,0 +1,6 @@
+{
+    "name" : "solleer/transphporm-messages",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
